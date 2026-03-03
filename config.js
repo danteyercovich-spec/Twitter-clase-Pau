@@ -1,0 +1,2 @@
+var SUPABASE_URL = "https://iuxofoyptecgiarenxkc.supabase.co";
+var SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml1eG9mb3lwdGVjZ2lhcmVueGtjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzI0ODI2MjAsImV4cCI6MjA4ODA1ODYyMH0.KXLnSugFiXq1bztlPhgL6IDyRZ4PUdXxQFCzvb5FrSY";
